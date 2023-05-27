@@ -1,1 +1,5 @@
-# jmpark0808.github.io
+# Jinman (Eddie) Park
+
+[About](./about.html)
+
+
