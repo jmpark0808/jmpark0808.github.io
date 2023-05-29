@@ -2,4 +2,6 @@
 
 [About](./about.html)
 
+[Publications](./publications.html)
+
 
