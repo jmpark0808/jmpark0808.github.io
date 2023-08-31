@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Publications"
-permalink: /publications
+title: "Work Experience"
+permalink: /workexperience
 ---
 
 - **J. Park**, K. Kaai, S. Hossain, N. Sumi, S. Rambhatla, P. Fieguth. Domain-Guided Spatio-Temporal Self-Attention for Egocentric 3D Pose Estimation.
