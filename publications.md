@@ -13,5 +13,7 @@ permalink: /publications
 ## Building Spatio-temporal Transformers for Egocentric 3D Pose Estimation
 **J. Park**, K. Kaai, S. Hossain, N. Sumi, S. Rambhatla, P. Fieguth. Building Spatio-temporal Transformers for Egocentric 3D Pose Estimation. Joint International Workshop on Egocentric Perception, Interaction and Computing (EPIC) and Ego4D, IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), Jun 6, 2022
 
+## Challenges in Detection of Rare Close-Call Events from Vehicle-Traffic Videos
+A. L. W. Koh, **J. Park**, P. Fieguth. Challenges in Detection of Rare Close-Call Events from Vehicle-Traffic Videos. Conference on Vision and Intelligent Systems (CVIS), 2022.
 
 [Home](./)
