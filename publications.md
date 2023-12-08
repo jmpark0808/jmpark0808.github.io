@@ -3,6 +3,11 @@ layout: default
 title: "Publications"
 permalink: /publications
 ---
+## Unsupervised Methods for Fly Sperm Motility Analysis
+J. Thompson, **J. Park**, V. Magdanz, D. Clausi. Unsupervised Methods for Fly Sperm Motility Analysis. Conference on Vision and Intelligent Systems (CVIS), 2023.
+
+## MMSeaIce: Multi-task Mapping of Sea Ice Parameters from AI4Arctic Sea Ice Challenge Dataset
+Chen, Xinwei, Muhammed Patel, Fernando Pena Cantu, **Jinman Park**, Javier Noa Turnes, Linlin Xu, K. Andrea Scott, and David A. Clausi. "MMSeaIce: Multi-task Mapping of Sea Ice Parameters from AI4Arctic Sea Ice Challenge Dataset." EGUsphere 2023 (2023): 1-17.
 
 ## Domain-Guided Spatio-Temporal Self-Attention for Egocentric 3D Pose Estimation
 **J. Park**, K. Kaai, S. Hossain, N. Sumi, S. Rambhatla, P. Fieguth. Domain-Guided Spatio-Temporal Self-Attention for Egocentric 3D Pose Estimation. ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2023.
