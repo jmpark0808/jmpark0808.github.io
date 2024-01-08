@@ -4,6 +4,11 @@ title: "Awards"
 permalink: /awards
 ---
 
+## Best Reviewer Award (Hon. Mention)
+
+Issued by Conference on Vision and Intelligent Systems, December 2023.
+
+
 ## 1st place in AutoICE competition
 
 Issued by European Space Agency, April 2023
