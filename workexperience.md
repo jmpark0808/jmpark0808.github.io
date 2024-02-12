@@ -22,6 +22,8 @@ AICAT, January 2019 - December 2019
 
 ## Senior Researcher & Consultant
 
+SK Hynix, June 2018 - November 2018
+
 - Designed and implemented a semiconductor grade prediction model using Keras.
 - Built a custom Python generator function to solve data binary class imbalance problem.
 - Utilized DeepExplain library to analyze data features with high grade correlation.
