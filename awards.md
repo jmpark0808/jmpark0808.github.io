@@ -15,6 +15,10 @@ Issued by European Space Agency, April 2023
 
 1st place in AutoICE competition to address the challenge of “automated sea ice mapping” from Sentinel-1 SAR data.
 
+## NSERC Doctoral Award Institute Finalist
+
+University of Waterloo, November 2022.
+
 
 ## Bronze Medal : RSNA-MICCAI Brain Tumor Radiogenomic Classification
 
