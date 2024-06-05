@@ -28,6 +28,9 @@ Issued by European Space Agency, April 2023.
 
 University of Waterloo, November 2022.
 
+## Engineering Doctoral Domestic Student Award
+
+University of Waterloo, September 2021 - Current
 
 ## Bronze Medal : RSNA-MICCAI Brain Tumor Radiogenomic Classification
 
