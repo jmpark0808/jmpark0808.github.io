@@ -4,19 +4,26 @@ title: "Awards"
 permalink: /awards
 ---
 
+## Best Reviewer Award 
+
+Issued by Conference on Vision and Intelligent Systems, December 2024.
+
+
 ## President's Graduate Scholarship
 
-University of Waterloo, May 2024 - April 2025.
+Issued by University of Waterloo, May 2024 - April 2025.
 
 ## Ontario Graduate Scholarship
 
-University of Waterloo, May 2024 - April 2025.
+Issued by University of Waterloo, May 2024 - April 2025.
 
 
 ## Best Reviewer Award (Hon. Mention)
 
 Issued by Conference on Vision and Intelligent Systems, December 2023.
 
+## Laura Bassi Scholarship 
+Issued by The Advisory Board of the Laura Bassi Scholarship, August 2023.
 
 ## 1st place in AutoICE competition
 
@@ -26,11 +33,11 @@ Issued by European Space Agency, April 2023.
 
 ## NSERC Doctoral Award Institute Finalist
 
-University of Waterloo, November 2022.
+Issued by University of Waterloo, November 2022.
 
 ## Engineering Doctoral Domestic Student Award
 
-University of Waterloo, September 2021 - Current
+Issued by University of Waterloo, September 2021 - Current
 
 ## Bronze Medal : RSNA-MICCAI Brain Tumor Radiogenomic Classification
 
