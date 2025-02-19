@@ -25,7 +25,8 @@ Conference on Vision and Intelligent Systems, October 2024 - January 2025
 
 Miovision, August 2022 - February 2023
 
-- Responsible for supporting the NSERC (Natural Sciences and Engineering Research Council)/ OCI (Ontario Centre of Innovation) funded project "\emph{Traffic Safety Margin Inference via 3D Spatial Modeling}" in partnership with  the University of Waterloo Vision and Image Processing Lab.
+- Managed and coordinated the NSERC/OCI-funded project "Traffic Safety Margin Inference via 3D Spatial Modeling" in collaboration with the University of Waterloo Vision and Image Processing Lab.
+- Oversaw project planning, research execution, and stakeholder communication, ensuring alignment with research milestones. Facilitated data collection, model development, and validation for 3D spatial traffic safety analysis while liaising with academic and industry partners to drive innovation and application.
 
 
 ## Computer Vision Developer
