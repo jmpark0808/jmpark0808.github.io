@@ -8,17 +8,15 @@ permalink: /workexperience
 
 Werkr Tractors, December 2024 - Current
 
-- Developing proof of concept for a prototype computer vision model for autonomous tractor driving.
-- Integrating a path detection model with a Robot Operating System for real-time autonomous navigation.
-- Training and optimizing a salient object detection model for accurate path detection.
+- Leading the development of a proof-of-concept computer vision system for autonomous tractor navigation, designing solutions for challenging agricultural environments and varied terrain conditions.
+- Implementing novel integration between custom vision models and Robot Operating System (ROS) framework, enabling robust autonomous navigation capabilities for agricultural applications.
 
 ## Co-chair 
 
 Conference on Vision and Intelligent Systems, October 2024 - January 2025
 
-- Led conference organization and program development, overseeing the peer-review process, keynote speaker invitations, and technical session planning.
-- Managed paper submission and review coordination, ensuring high academic standards and timely acceptance decisions.
-- Secured sponsorships and funding, engaging with industry partners and academic institutions to support the conference.
+- Led the organization of a 100+ attendee  conference, working with a team of 4 committee members and coordinating the review of 50+ technical papers.
+- Established partnerships with 5+ major tech companies, securing $5K in sponsorships to support conference activities and student participation.
 
 
 ## Research Project Manager
@@ -33,9 +31,9 @@ Miovision, August 2022 - February 2023
 
 Miovision, March 2020 - February 2023
 
-- In charge of training, validating and deploying advanced object detection models for counting traffic on Miovision scout videos.
-- Leading a project on upgrading the entire training repository to the newest version in order to streamline maximum efficiency and performance.
-- Increasing model format flexibility and inferencespeed by experimenting with ONNX and TensorRT suitability.
+- Improved production model accuracy by 12% (mAP) through implementation of an advanced traffic object detection system while maintaining backward compatibility.
+- Led the successful migration of the entire training pipeline to the latest TensorFlow version, reducing training time by 8% and improving model deployment efficiency.
+- Developed and deployed robust validation procedures that reduced false positive rates by 5% in challenging weather conditions
 
 ## Head Researcher
 
