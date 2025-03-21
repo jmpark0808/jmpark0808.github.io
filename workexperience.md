@@ -31,7 +31,7 @@ Miovision, August 2022 - February 2023
 
 Miovision, March 2020 - February 2023
 
-- Improved production model accuracy by 12% (mAP) through implementation of an advanced traffic object detection system while maintaining backward compatibility.
+- Improved production model accuracy by 12% (mAP) through implementation of an advanced traffic object detection (SSD) system while maintaining backward compatibility.
 - Led the successful migration of the entire training pipeline to the latest TensorFlow version, reducing training time by 8% and improving model deployment efficiency.
 - Developed and deployed robust validation procedures that reduced false positive rates by 5% in challenging weather conditions
 
@@ -40,7 +40,7 @@ Miovision, March 2020 - February 2023
 AICAT, January 2019 - December 2019
 
 - Developed and implemented real time polyphonic piano note transcription model with PyTorch, Librosa and SoundFile based on RCNN.
-- Helped raise 80% of the company’s funding by winning the NAVER AI-Starthon.
+- Helped raise 80% of the company’s funding (~$200k USD) by winning the NAVER AI-Starthon.
 - Spoke at international conferences with 6000 + attendees about AI's role in international patents and art.
 
 ## Senior Researcher & Consultant
